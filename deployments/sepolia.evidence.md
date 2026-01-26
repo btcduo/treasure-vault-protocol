@@ -1,0 +1,99 @@
+## deploy tx sequence
+##### sepolia
+✅  [Success] Hash: 0xce4e046d09c2e458a737286659bea31442c3e9d568c860f990bc14ab8ac75b46
+Contract Address: 0x65db83e93dC958dd5766e8cA014F88847707019C
+Block: 10091859
+Paid: 0.001551379813112199 ETH (1519413 gas * 1.021038923 gwei)
+
+##### sepolia
+✅  [Success] Hash: 0x47df88746dbcce7e2f8d004e20d2941d6b42fecd23ee62ba371ecf2e90c5922a
+Contract Address: 0x20b443BDff623Fc2Cf222EF2970919291A38a599
+Block: 10091861
+Paid: 0.002601283349158188 ETH (2476893 gas * 1.050220316 gwei)
+
+##### sepolia
+✅  [Success] Hash: 0x963aa23cc298f477e085ba69407dc6a6e244a087622026b754c9d90adf01b0b4
+Contract Address: 0xD0A58717C880ccdFFDBe3ceee2c18dd78233d03D
+Block: 10091863
+Paid: 0.00401744820677508 ETH (3668280 gas * 1.095185811 gwei)
+
+##### sepolia
+✅  [Success] Hash: 0x957b5858101ee79639f50a3df90cc0ac1342fa91f4ce321a01a5d13216a1f4ac
+Contract Address: 0xa1947fCfD27a965476ce7a48468C6b1B66e536ee
+Block: 10091864
+Paid: 0.000838347431236739 ETH (716123 gas * 1.170675193 gwei)
+
+##### sepolia
+✅  [Success] Hash: 0xaaf87558a99c53da22358976c45fcb177d8b533e3ed015c80d7b6da84d85d803
+Contract Address: 0x6CCf1d69fEba6443fe08c8743bA9F4975270941E
+Block: 10091865
+Paid: 0.001932167135466465 ETH (1744185 gas * 1.107776489 gwei)
+
+##### sepolia
+✅  [Success] Hash: 0xd1bf92005c8ad6efb4ecf7052c6eb3505dfd87de1490d4569fb766fb2e2b20cc
+Contract Address: 0x7126766f64EdEc247Bf7431792b284dBe4818843
+Block: 10091866
+Paid: 0.001783602461999631 ETH (1744197 gas * 1.022592323 gwei)
+
+##### sepolia
+✅  [Success] Hash: 0xbdb3e48dca97b2d2699749d74830028f7c33de933bf28a556b457a028eb13c0b
+Block: 10091868
+Paid: 0.000074602092313812 ETH (71673 gas * 1.040867444 gwei)
+
+##### sepolia
+✅  [Success] Hash: 0x2d346829b17781120714d967379981871d8ca8daa83eb644f89b58af74518ccb
+Block: 10091869
+Paid: 0.0000533962609704 ETH (54585 gas * 0.97822224 gwei)
+
+##### sepolia
+✅  [Success] Hash: 0x922bcc33a2eb4af26d16e317d7d0c426c8a211c11dbb85826cc9137df1772766
+Block: 10091870
+Paid: 0.000254336183549262 ETH (231337 gas * 1.099418526 gwei)
+
+##### sepolia
+✅  [Success] Hash: 0x3347f0682fa8acb59df8445b20889aeffaa8ff287293359b5ddd214317918cd9
+Contract Address: 0x96aE8362aa05bF592c51E8b04e5DfE45f40bF74C
+Block: 10091871
+Paid: 0.00165519911972807 ETH (1640218 gas * 1.009133615 gwei)
+
+##### sepolia
+✅  [Success] Hash: 0x099b8218f23c8394edab3313e0c0d564ce14b50e3bd5943f11c0de5453bece83
+Block: 10091872
+Paid: 0.000067508427347319 ETH (71697 gas * 0.941579527 gwei)
+
+##### sepolia
+✅  [Success] Hash: 0x1a2a0adc4ae1739cc043eb139abb5bdfea94d77b569a0a6c11179b99dd756b12
+Block: 10091873
+Paid: 0.000152763678770252 ETH (144254 gas * 1.058990938 gwei)
+
+##### sepolia
+✅  [Success] Hash: 0x89cf0750f0968763ab63eb696c916dfa37bb0dd993d2a9a0f2eeeca42e5ca162
+Block: 10091874
+Paid: 0.000068482074889752 ETH (69778 gas * 0.981427884 gwei)
+
+##### sepolia
+✅  [Success] Hash: 0xcadd02cbd2f897efcd5abcdbb504a71fe0ba72d9227b79e084ff52b56c5ac38f
+Block: 10091875
+Paid: 0.000077135652408474 ETH (69894 gas * 1.103609071 gwei)
+
+##### sepolia
+✅  [Success] Hash: 0x61a88780667ae95c9edaaac0022120eef3262b4370c508763de9d9dc4a4b51cf
+Block: 10091876
+Paid: 0.000151975322134824 ETH (133464 gas * 1.138698991 gwei)
+
+✅ Sequence #1 on sepolia | Total Paid: 0.015279627209860467 ETH (14355991 gas * avg 1.054629152 gwei)
+
+## verify result
+
+Stored in [output.md]
+
+## direct / relay path tx hash
+
+direct deposit: 0x68811aa8dcd14dbe255533d2eddb2b446fc0299bb049a379f3f419e182892fc1
+relay deposit: 0x0b41d690c9366559fd96c851e60bd97c9d338f47925cbf1b953a1db7137fa76c
+
+direct stake: 0xe2e47a848d55c2647ca3a212b9a25be974ed825c4390a5d7b2c0f0a02de07301
+relay stake: 0xd20690136d77ae889f8e3a6bd82c5fe89f2003e8ee9df08c5117ef0cf5a1655f
+
+direct claim: 0xe0bfc8b3c589d6071524ba99606c8102b8adb4459cd58a08404d7f7a334fc327
+relay claim: 0x55243d0ebb9ef046aa465ef5dbe526d2f4067def897ef352724e8af7aa8c2368

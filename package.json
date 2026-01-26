@@ -1,0 +1,21 @@
+{
+  "name": "treasure-vault-relayer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "status:latest": "tsx scripts/status.ts latest",
+    "relay:deposit": "tsx scripts/relay.ts deposit",
+    "relay:stake": "tsx scripts/relay.ts stake",
+    "relay:unstake": "tsx scripts/relay.ts unstake",
+    "relay:redeem": "tsx scripts/relay.ts redeem",
+    "relay:claim": "tsx scripts/relay.ts claim"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ethers": "^6.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}

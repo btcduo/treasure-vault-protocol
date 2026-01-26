@@ -1,8 +1,30 @@
 
 # macOS
 .DS_Store
+.vscode/
+.idea/
+
+# secrets
+.env
+.env.*.local
 
 # foundry
 out/
 cache/
-broadcast/
+
+# node / pnpm
+node_modules/
+.pnpm/
+.pnpm-store/
+.pnpm-debug.log*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# pnpm workspace stake (generated)
+.pnpm-workspace-state-v1.json
+.modules.yaml
+
+# ts build
+dist/
+*.tsbuildinfo
